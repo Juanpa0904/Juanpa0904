@@ -1,4 +1,5 @@
-Hola, soy Juan Pablo.
+# Juanpa0904
+Hola, soy **Juan Pablo**.
 
 🌱 Espero que reconozcas cada intento por encima de cada error.      
 
@@ -6,6 +7,6 @@ Hola, soy Juan Pablo.
 🔘 Muy competitivo ☢️   
 🔘 Ing de sistemas  
 🍃*Universidad del Tolima*
-
+#
 Para contactarme y de paso seguirme 🔍    
-🐧 https://twitter.com/Juani_r9
+🐧[Mi twitter](https://twitter.com/Juani_r9)
