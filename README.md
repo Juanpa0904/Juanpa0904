@@ -1,16 +1,14 @@
-### Hi there 👋
+📉 Espero que reconozcas cada intento por encima de cada error. 📉   
 
-<!--
-**Juanpa0904/Juanpa0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HOBBIES   
+🎮Videojuegos   
+🎧Música    
+🎭Poemas      
 
-Here are some ideas to get you started:
+↝ 18 años   
+↝ Muy competitivo   
+↝ Ing de sistemas (1er semestre)    
+Universidad del Tolima    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Para contactarme y de paso seguirme 🔍    
+🐧 https://twitter.com/Juani_r9
