@@ -5,7 +5,7 @@ Hola, soy **Juan Pablo**.
 
 🔘 18 años   
 🔘 Muy competitivo ☢️   
-🔘 Ing de sistemas  
+🔘 Ing de sistemas *(primer semestre.)*    
 🍃*Universidad del Tolima*
 #
 Para contactarme y de paso seguirme 🔍    
